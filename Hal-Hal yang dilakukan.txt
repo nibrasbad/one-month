@@ -2,8 +2,8 @@ hal hal yang ingin saya lakukan untuk 1 bulan kedepan
 - Konsisten belajar coding
 - 1 hari satu hal yang baru 
 - lebih fokus untuk belajar web pemrograman
-- belajar bahasa pemrograman
-  ^ belajar javasripct
-    ^ vue, react
-- belajar framework laravel
+  ^ Html
+  ^ Css
+  ^ javascript
+    ^ vue, react, angular
 - mendokumentasi perjalanan belajar di repository ini
